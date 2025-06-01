@@ -31,7 +31,7 @@
         >上传图标图片</label>
         <input type="file" id="inputSquareImage" accept="image/*" @change="updatePreview('square', $event)" class="hidden">
         <a 
-          href="https://icon.ruom.top" 
+          href="https://zhangyu1818.github.io/appicon-forge/" 
           target="_blank"
           class="px-3 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors text-sm whitespace-nowrap"
         >图标下载站</a>
