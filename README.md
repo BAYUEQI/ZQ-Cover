@@ -11,22 +11,22 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
 </p>
 <p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/JLinMr/Mini-Cover">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/BAYUEQI/ZQ-Cover">
     <img src="https://vercel.com/button" alt="Deploy with Vercel" />
   </a>
-  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/JLinMr/Mini-Cover">
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/BAYUEQI/ZQ-Cover">
     <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />
   </a>
 </p>
 <p align="center">🎮 在线演示：
-  <a href="https://cover.ruom.top" target="_blank">
+  <a href="https://cover.bayuedeqi.dpdns.org" target="_blank">
   https://cover.ruom.top
   </a>
 </p>
 
 ## 📖 简介
 
-Mini-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
+ZQ-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
 
 ## ✨ 特性
 
@@ -83,7 +83,7 @@ export const defaultConfig = {
 
 ```bash
 # 克隆项目
-git clone https://github.com/JLinMr/Mini-Cover.git
+git clone https://github.com/BAYUEQI/ZQ-Cover.git
 
 # 安装依赖
 npm install
