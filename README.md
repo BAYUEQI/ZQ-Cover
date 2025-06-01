@@ -1,29 +1,3 @@
-<p align="center">
-  <img src="public/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
-</p>
-
-<h1 align="center">Mini-Cover</h1>
-
-<p align="center">优雅的在线封面生成工具</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-3.5-4FC08D?logo=vue.js" alt="Vue">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-</p>
-<p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/BAYUEQI/ZQ-Cover">
-    <img src="https://vercel.com/button" alt="Deploy with Vercel" />
-  </a>
-  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/BAYUEQI/ZQ-Cover">
-    <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />
-  </a>
-</p>
-<p align="center">🎮 在线演示：
-  <a href="https://cover.bayuedeqi.dpdns.org" target="_blank">
-  https://cover.ruom.top
-  </a>
-</p>
-
 ## 📖 简介
 
 ZQ-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
