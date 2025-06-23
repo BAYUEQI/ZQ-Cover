@@ -10,8 +10,8 @@ const fonts = [
 ];
 
 export const defaultConfig = {
-    text: 'ZQ JACKY',       // 默认文本
-    watermark: '@ZQ JACKY', // 默认水印
+    text: 'ZQ Jacky',       // 默认文本
+    watermark: '@ZQ Jacky', // 默认水印
     fontFamily: import.meta.env.VITE_APP_FONT_FAMILY,
     fontStyles: fonts.map(f => f[2]).filter(Boolean),
     fontOptions: fonts.map(([value, label]) => ({ value, label }))
